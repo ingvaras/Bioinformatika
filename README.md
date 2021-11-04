@@ -26,3 +26,5 @@ Buvo lyginami 4 bakteriniai virusiai(B1 - B4) ir 4 žinduoliams būdingi virusai
 
 ####Dikodonų dažnių klasterizavimas (Neighbour joining metodas)
 ![img_7.png](img_7.png)
+
+Iš rezultatų matyti, jog kodonų, dikodonų dažnis tarp žinduolių ir bakterijų virusų skiriasi. Bakteriniai virusai B1, B3, B4 klasterizavosi į vieną grupę, tuo tarpu žinduolių virusai M1, M2, M4 bei bakterijų virusas B2 klasterizavosi į kitą grupę. Labiausiai nepanašus į kitus virusus buvo žinduolių virusas M3.
