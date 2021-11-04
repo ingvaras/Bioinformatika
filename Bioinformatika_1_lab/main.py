@@ -20,7 +20,7 @@ def extract_all_three_possible_sequences(sequence):
 # 1, 2, 3 tasks
 def find_and_filter_coding_sequences(filename):
     sequences = []
-    for seq in SeqIO.parse("resources/" + filename, "fasta"):
+    for seq in SeqIO.parse("Bioinformatika_1_lab/resources/" + filename, "fasta"):
         for j in range(0, 3):
             if len(seq.seq[j:]) % 3 != 0:
                 sequence = Seq(seq.seq[j:-(len(seq.seq[j:]) % 3)])
