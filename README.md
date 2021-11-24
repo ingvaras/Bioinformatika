@@ -39,27 +39,27 @@ Iš gautojo medžio nėra aiški Urbani SARS kilmė
 ### 4. Is the Palm Civet origin evident?
 Iš gautojo medžio nėra aiški Palm Civet kilmė
 ## 3 Laboratorinis Darbas
-###1
+### 1
 FASTQ formatas yra tekstinio pagrindo (text-based) formatas skirtas saugoti nukleotidų sekai ir ją atitinkantiems kokybiniams įverčiams.
 Lyginant su FASTA, FASTĄ papildomai turi sekos ID ir kokybės įverčius. Kokybės įverčiai parodo, kaip tiksliai buvo nuskenuota seka.
 Įverčiai koduojami ASCII simboliai. Čia yra visi galimi kodavimo simboliai tinkantys apibūdinti sekos kokybę (nuo blogiausio iki geriausio):
 !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ\]^_`abcdefghijklmnopqrstuvwxyz{|}~
-###2
+### 2
 Gimiau 21 dieną. 21 + 33 = 54. Tai atitinka simbolį "6".
-###3
+### 3
 Nes pirmi 32 ASCII simboliai yra naudojami (rezervuoti) kompiuterinių sistemų, nes turi svarbią kompiuterinę paskirtį.
-###4
-####a) 
+### 4
+#### a) 
 Sanger Phred+33 arba Illumina 1.8+ Phred+33.
 Nepavyko nustatyti tiksliai, nes šios dvi koduotės yra labai panašios ir skiriasi tik vienu simboliu.
 Nustatinėjant koduotes rėmiausi šia lentele. Šaltinis: https://en.wikipedia.org/wiki/FASTQ_format
 ![img.png](Bioinformatika_3_lab/img.png)
-####b) 
+#### b) 
 Yra matomi 3 stambūs pikai C/G nukleotidų santykio pasiskirstymo read'uose grafike
 ![img_1.png](Bioinformatika_3_lab/img_1.png)
-####c) 
+#### c) 
 ![img_2.png](Bioinformatika_3_lab/img_2.png)
-###5
+### 5
 Mėginyje buvo šių rūšių bakterijų: 
 <li>Staphylococcus aureus - bakterija dažnai randama žmogaus organizme</li>
 <li>Escherichia coli - bakterija gyvenanti šiltakraujuose organizmuose</li>
