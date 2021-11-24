@@ -43,7 +43,7 @@ Iš gautojo medžio nėra aiški Palm Civet kilmė
 FASTQ formatas yra tekstinio pagrindo (text-based) formatas skirtas saugoti nukleotidų sekai ir ją atitinkantiems kokybiniams įverčiams.
 Lyginant su FASTA, FASTĄ papildomai turi sekos ID ir kokybės įverčius. Kokybės įverčiai parodo, kaip tiksliai buvo nuskenuota seka.
 Įverčiai koduojami ASCII simboliai. Čia yra visi galimi kodavimo simboliai tinkantys apibūdinti sekos kokybę (nuo blogiausio iki geriausio):
-!"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
+!"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ\]^_`abcdefghijklmnopqrstuvwxyz{|}~
 ###2
 Gimiau 21 dieną. 21 + 33 = 54. Tai atitinka simbolį "6".
 ###3
